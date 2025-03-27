@@ -38,5 +38,5 @@ Para iniciar, es necesario que las pruebas estén listas para su presentación.
 ### Pasos de la entrevista
 - Breve descripción de la funcionalidad general de la aplicación testeada.
 - Explicación sobre las pruebas realizadas.
-- Explicacio de la incidencia de las pruebas en el control de calidad.
+- Explicación de la incidencia de las pruebas en el control de calidad.
 - Preguntas del entrevistador.
